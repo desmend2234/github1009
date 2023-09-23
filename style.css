@@ -123,4 +123,7 @@ main section.info-circles div.circles div.circle img:hover {
   header nav ul li {
     padding: 0.5rem 0.25rem;
   }
+}
+h1 {
+  color: 0;
 }/*# sourceMappingURL=style.css.map */
